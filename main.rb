@@ -14,5 +14,12 @@ def decode_word(word_code)
   end.join
 end
 
+def decode(morse_code)
+  morse_code.split('   ').map do |char|
+    decode_word(char)
+  end.join(' ')
+end
+
 puts decode_char('.-')
 puts decode_word('.- --')
+puts decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')

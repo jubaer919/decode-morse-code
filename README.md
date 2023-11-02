@@ -64,7 +64,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone github.com/microhass/decode-morse-code.git
+  git clone https://github.com/jubaer919/decode-morse-code.git
 ```
 
 -
@@ -75,18 +75,17 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Zohra Neda**
+👤 **Jubaer Maruf**
 
-- GitHub: [@zohra-neda](https://github.com/zohra-neda)
-- Twitter: [@zohra_neda](https://twitter.com/zohra_neda)
-- LinkedIn: [zohra-neda](https://www.linkedin.com/in/zohra-neda)
+- GitHub: [jubaer_Maruf](https://github.com/jubaer919)
+- Twitter: [@jubaer_maruf](https://twitter.com/jubaer_maruf)
+- LinkedIn: [Jubaer Maruf](https://www.linkedin.com/in/jubaer-maruf/)
 
+👤 **Khuraijam Henary Singh**
 
-👤 **Hassan Shakur**
-
-- GitHub: [@hassanShakur](https://github.com/hassanShakur)
-- Twitter: [@HassShakur](https://twitter.com/HassShakur)
-- LinkedIn: [hassanShakur](https://linkedin.com/in/hassanShakur)
+- GitHub: [@HenaryKhuraijam](https://github.com/HenaryKhuraijam)
+- Twitter: [@HenaryKhuraijam](https://twitter.com/HenaryKhuraijam)
+- LinkedIn: [Henary Khuraijam](https://www.linkedin.com/in/henary-khuraijam-50487317a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +103,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/jubaer919/decode-morse-code/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,8 +122,6 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > I would like to thank my coding partners and mentor for the support, and Microverse for the opportunity.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
